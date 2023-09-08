@@ -1,0 +1,9 @@
+.wrapper {
+  background-color: rgba(247, 226, 226, 0.336);
+  border: 1px solid #000;
+  border-radius: 10px;
+  margin: auto;
+  width: 49%;
+  float: left;
+  margin-left: 6px;
+}
